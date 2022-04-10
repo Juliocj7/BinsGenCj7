@@ -23,25 +23,20 @@
 </details>
 
 
-## Menú Principal :
-![16a](https://user-images.githubusercontent.com/81049859/162635576-4314019a-aa7e-42f0-aceb-1d03d13b45eb.png)
+## Pantalla de bloqueo :
 
+## Menú Principal :
 
 ## Checker :
-![16b](https://user-images.githubusercontent.com/81049859/162635593-e83917d0-19d3-4d94-aebd-8b942ae013ff.png)
 
-
-## Extrapolador :
-![16c](https://user-images.githubusercontent.com/81049859/162635606-409c0765-6562-4c66-bc34-d9b1cfcfca04.png)
-
-
-## CheckCj7 :
+## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
+* Genera **tarjetas de crédito** Amex, Visa, Mastercard y Discover.
 * **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
 * Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
 * Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
+- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 # Instalación :
 
@@ -51,25 +46,15 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `termux-setup-storage`
-
 * `apt update && apt upgrade -y`
 
-* `apt install ncurses-utils -y`
+* `git clone https://github.com/Juliocj7/BinsGenCj7`
 
-* `pkg install -y git`
-
-* `gem install lolcat`
-
-* `apt install pv`
-
-* `git clone https://github.com/Juliocj7/CheckCj7`
-
-* `cd CheckCj7`
+* `cd BinsGenCj7`
 
 * `chmod +x *`
 
-* `./CheckCj7`
+* `python BinsGenCj7.py`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
