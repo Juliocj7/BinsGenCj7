@@ -35,7 +35,7 @@
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
 * Genera **tarjetas de crédito** Amex, Visa, Mastercard y Discover.
-* **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
+* **Extrapola CC** para alargar el tiempo de vida del BIN, generando así tu propio BIN privado.
 * Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
 * Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
