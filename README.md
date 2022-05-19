@@ -24,13 +24,16 @@
 
 
 ## Pantalla de bloqueo :
-![Screenshot_20220410-154959_Termux](https://user-images.githubusercontent.com/81049859/162637564-56b46c08-5ac7-4922-b784-42f7a4ca5d62.png)
+![62a](https://user-images.githubusercontent.com/81049859/169345828-b8ef667e-90a6-43eb-a0ce-6cd2367e3bf0.png)
+
 
 ## Menú Principal :
-![Screenshot_20220410-155023_Termux](https://user-images.githubusercontent.com/81049859/162637573-4d08f70a-c2de-4990-94bf-ac77dd13cc8f.png)
+![62b](https://user-images.githubusercontent.com/81049859/169345861-e10444fc-b7f9-4697-b04f-2747d3f73a36.png)
+
 
 ## Checker :
-![Screenshot_20220410-155439_Termux](https://user-images.githubusercontent.com/81049859/162637576-14133f9e-4565-40a1-9a7f-6d9e7810b9bc.png)
+![62c](https://user-images.githubusercontent.com/81049859/169345902-927041cb-d24d-4313-a15c-ce94263b503c.png)
+
 
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
