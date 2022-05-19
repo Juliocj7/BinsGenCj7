@@ -28,11 +28,13 @@
 
 
 ## Menú Principal :
-![62b](https://user-images.githubusercontent.com/81049859/169345861-e10444fc-b7f9-4697-b04f-2747d3f73a36.png)
+![Screenshot_20220519-162605_Termux](https://user-images.githubusercontent.com/81049859/169398917-0ee975eb-c99a-4f29-b231-8a6d23a77f71.png)
 
 
 ## Checker :
-![Screenshot_20220519-122448_Termux](https://user-images.githubusercontent.com/81049859/169350773-56c3c438-74dc-4c3b-90a6-773ad45a7c42.png)
+![Screenshot_20220519-162517_Termux](https://user-images.githubusercontent.com/81049859/169398968-65e9f385-af73-4e2b-bc35-cdece67a91b3.png)
+
+
 
 
 
