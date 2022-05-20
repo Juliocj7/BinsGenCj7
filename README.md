@@ -32,7 +32,8 @@
 
 
 ## Checker :
-![Screenshot_20220519-162517_Termux](https://user-images.githubusercontent.com/81049859/169398968-65e9f385-af73-4e2b-bc35-cdece67a91b3.png)
+![Screenshot_20220519-220536_Termux](https://user-images.githubusercontent.com/81049859/169434492-da5ea01e-1ad5-4863-8e05-bc6b3418ca31.png)
+
 
 
 
