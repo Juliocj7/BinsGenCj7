@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,22 +21,14 @@
 
 </details>
 
-
 ## Pantalla de bloqueo :
 ![62a](https://user-images.githubusercontent.com/81049859/169345828-b8ef667e-90a6-43eb-a0ce-6cd2367e3bf0.png)
-
 
 ## Menú Principal :
 ![Screenshot_20220519-162605_Termux](https://user-images.githubusercontent.com/81049859/169398917-0ee975eb-c99a-4f29-b231-8a6d23a77f71.png)
 
-
 ## Checker :
 ![Screenshot_20220519-220536_Termux](https://user-images.githubusercontent.com/81049859/169434492-da5ea01e-1ad5-4863-8e05-bc6b3418ca31.png)
-
-
-
-
-
 
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
@@ -56,8 +47,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/BinsGenCj7`
 
 * `cd BinsGenCj7`
