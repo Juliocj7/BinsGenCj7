@@ -26,7 +26,7 @@
 ![62a](https://user-images.githubusercontent.com/81049859/169345828-b8ef667e-90a6-43eb-a0ce-6cd2367e3bf0.png)
 
 ## Menú Principal :
-![Screenshot_20220519-162605_Termux](https://user-images.githubusercontent.com/81049859/169398917-0ee975eb-c99a-4f29-b231-8a6d23a77f71.png)
+![Screenshot_20220720-205458_Termux](https://user-images.githubusercontent.com/81049859/180108226-2506b045-127c-4a43-ac1e-9b323bb2fd24.png)
 
 ## Checker :
 ![Screenshot_20220519-220536_Termux](https://user-images.githubusercontent.com/81049859/169434492-da5ea01e-1ad5-4863-8e05-bc6b3418ca31.png)
