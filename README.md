@@ -29,7 +29,7 @@
 ![Screenshot_20230503_183722_Termux](https://user-images.githubusercontent.com/81049859/236066922-8253115e-4b63-47d9-af19-364102c143b2.png)
 
 ## Checker :
-![Screenshot_20230503_184122_Termux](https://user-images.githubusercontent.com/81049859/236066952-86fb02e1-d16b-4ab9-af79-d1686e8f4e3d.png)
+![Screenshot_20230514_122514_Termux](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/21426ea1-4883-4ac3-bf6c-685708ac46f9)
 
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
