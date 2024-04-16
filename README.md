@@ -55,8 +55,7 @@ ______________________________________________________
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
 * Genera **tarjetas de crédito** Amex, Visa, Mastercard y Discover.
 * **Extrapola CC** para alargar el tiempo de vida del BIN, generando así tu propio BIN privado.
-* Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
-* Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
+* Con **lives** puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
 * Genera **correos temporales** totalmente funcionales de una manera sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -65,17 +64,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/BinsGenCj7`
-
-* `cd BinsGenCj7`
-
-* `chmod +x *`
-
-* `python BinsGenCj7.py`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/BinsGenCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd BinsGenCj7 && chmod +x * && ./BinsGenCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
