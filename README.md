@@ -49,7 +49,7 @@ ______________________________________________________
 ![1000340565](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/4d57942f-11b1-4c72-811b-1304a51e8b99)
 
 ## Checker :
-![1000340608](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/e5faa91c-c6de-43f1-a506-9d1ae5dbed7e)
+![1000340611](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/d09a367e-12c7-4f6a-9414-5949fc53e8f7)
 
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
