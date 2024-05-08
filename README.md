@@ -43,13 +43,13 @@ ______________________________________________________
 </div>
 
 ## Login :
-![1000328515](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/445d9ffa-535c-411f-ae53-7e5e34e1419b)
+![1000340564](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/08ea960b-3396-4fa6-ae98-b1b2f3170d68)
 
 ## Menú Principal :
-![1000328516](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/c9a81803-1940-49c2-b99c-c3f681a84bb5)
+![1000340565](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/4d57942f-11b1-4c72-811b-1304a51e8b99)
 
 ## Checker :
-![1000328539](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/778d016a-bcc4-47e8-8fad-28f443114d9b)
+![1000340608](https://github.com/Juliocj7/BinsGenCj7/assets/81049859/e5faa91c-c6de-43f1-a506-9d1ae5dbed7e)
 
 ## BinsGenCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
